@@ -4,9 +4,8 @@
 0315資料夾：基本數值資料、流量折線圖  
 0412資料夾：文字探勘、主題模型及文字探勘實作  
 0531資料夾：區域立委斷字斷詞（註1）；新聞資料NER  
-0607資料夾：區域立委NER、topic model；新聞資料topic model、Mallet（註2）  
-
-
+0607資料夾：區域立委NER、topic model；新聞資料topic model、Mallet（註2）
+Kao_Councilman資料夾：選定市議員之斷字斷詞、topic model、情緒分析
 
 
 
